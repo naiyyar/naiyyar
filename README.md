@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naiyyar&show_icons=true&locale=en&layout=compact" alt="naiyyar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naiyyar&show_icons=true&locale=en" alt="naiyyar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naiyyar&show_icons=true&locale=en" alt="naiyyar" /></p> -->

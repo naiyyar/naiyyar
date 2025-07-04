@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naiyyar Abbas</h1>
-<h3 align="center">Full Stack Ruby on Rails Developer</h3>
+<h3 align="center">Full-Stack Web Developer | Ruby on Rails | Expert in Test-Driven Development & API Integrations | REST APIs | eCommerce</h3>
 <p align="center">Passionate about writing clean, maintainable, and efficient code, optimizing database</p>
 
 - 📫 How to reach me **naiyyarabbas512013@gmail.com**

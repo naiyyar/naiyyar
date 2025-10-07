@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **naiyyarabbas512013@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15m6S3OgcrHqDU4LdZ5q8hXWDMKfQlbZs/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1IbGYandS64xjt9euTlobb00fdvK5jKac/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
